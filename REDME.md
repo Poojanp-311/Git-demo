@@ -1,2 +1,2 @@
 # Demo Git
-learning basic git commands
+learning basic git commands.
